@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  permission_id: 1
+  permissible_type: MyString
+  permissible_id: 1
+
+two:
+  permission_id: 1
+  permissible_type: MyString
+  permissible_id: 1
